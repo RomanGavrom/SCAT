@@ -1,1 +1,3 @@
 # SCAT
+Select *
+From users
